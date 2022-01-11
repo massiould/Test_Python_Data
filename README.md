@@ -2,11 +2,11 @@
 
 Bonjour,
 
-Ce test a debuté  a 21h05 et a durée precisement 1h comme convenue lors de l'entretien
+Ce test a débuté à 21h05 et à durée précisément 1h comme convenue lors de l'entretien
 Vous trouverez un fichier python , ainsi que deux fichiers CSV.
 
-Les librairies a importer sont :
-Seaborn 
+Les librairies à importer sont :
+Seaborn
 Matplotlib
 Pandas
 
